@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/blocks_info"
+            android:title="All Blocks" />
+        <item
+            android:id="@+id/block0"
+            android:title="Block 0" />
+        <item
+            android:id="@+id/block1"
+            android:title="Block 1" />
+        <item
+            android:id="@+id/block2"
+            android:title="Block 2" />
+        <item
+            android:id="@+id/block3"
+            android:title="Block 3" />
+        <item
+            android:id="@+id/block4"
+            android:title="Block 4" />
+    </group>
+
+</menu>
